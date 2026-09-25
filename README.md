@@ -5,6 +5,7 @@ An immersive scroll experience recreating **Ryomen Sukuna's Domain Expansion** f
 ## Demo
 
 Open `index.html` in a modern browser. Best experienced on desktop with a scroll wheel.
+Just cheak this link 🔗 [https://losxinfinity.github.io/-Domain-Expansion-Sukuna/](url)
 
 ## Features
 
