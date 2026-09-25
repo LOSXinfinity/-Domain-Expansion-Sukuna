@@ -6,8 +6,6 @@ An immersive scroll experience recreating **Ryomen Sukuna's Domain Expansion** f
 
 Open `index.html` in a modern browser. Best experienced on desktop with a scroll wheel.
 
-Cheak this link 🔗: [https://losxinfinity.github.io/-Domain-Expansion-Sukuna/ 
-](url)
 ## Features
 
 - **Custom Lightning Engine** — Fractal midpoint-displacement channels, white-hot cores, violet glow, recursive branches, multi-restrike flicker, and ambient storm layers. Zero image assets for lightning.
